@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
 
             mAnswerView.text = randomAnswer2
 
-            SystemClock.sleep(5000)
+            //SystemClock.sleep(5000)
 //            return@setOnClickListener true
         }
     }
