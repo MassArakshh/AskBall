@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AskBallTheSecond</string>
+    <string name="WhatIsYorName">Как тебя зовут?</string>
+    <string name="NameHint">напиши тут</string>
+</resources>
